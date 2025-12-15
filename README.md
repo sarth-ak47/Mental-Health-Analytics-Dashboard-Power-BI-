@@ -25,29 +25,32 @@ The dashboard highlights regional differences, demographic patterns, trends over
 
 ### 🏠 Page 1 – Home / Overview
 Provides an introduction to the dashboard, dataset context, and navigation links.
+<img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/d02fe5a0-93a0-474c-ab53-16b97888067f" />
 
-![Home Page](screenshots/page1_home.png)
 
 ---
 
 ### 🌍 Page 2 – State & Demographic Analysis
 Explores state-level performance, demographic group comparisons, and data reliability using confidence intervals.
 
-![State & Demographic Analysis](screenshots/page2_state_group_analysis.png)
+<img width="1329" height="745" alt="image" src="https://github.com/user-attachments/assets/a974339e-ea11-45ef-be3c-757054fa3cf9" />
+
 
 ---
 
 ### 📈 Page 3 – Trend Analysis
 Analyzes changes in mental health indicators over time with interactive trend charts and KPI indicators.
 
-![Trend Analysis](screenshots/page3_trend_analysis.png)
+<img width="1329" height="743" alt="image" src="https://github.com/user-attachments/assets/252c5ded-287b-46ae-bb47-cb197248a1bf" />
+
 
 ---
 
 ### 🧠 Page 4 – Advanced Insights & Exploration
 Uses creative and AI-driven visuals such as Decomposition Tree, Hierarchy Tree, Sunburst, and Treemap to uncover deeper insights.
 
-![Advanced Insights](screenshots/page4_advanced_insights.png)
+<img width="1330" height="739" alt="image" src="https://github.com/user-attachments/assets/8a34a333-41ae-4475-b5ab-ff3933aa22d9" />
+
 
 ---
 
