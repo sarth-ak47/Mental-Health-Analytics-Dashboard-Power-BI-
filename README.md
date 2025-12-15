@@ -74,4 +74,15 @@ Uses creative and AI-driven visuals such as Decomposition Tree, Hierarchy Tree, 
 ---
 
 ## 📁 Repository Structure
+Mental-Health-Analytics-Dashboard
+│
+├── Mental_Health_Analysis.pbix
+├── README.md
+├── dataset
+│ └── mental_health_data.csv
+└── screenshots
+├── page1_home.png
+├── page2_state_group_analysis.png
+├── page3_trend_analysis.png
+└── page4_advanced_insights.png
 
